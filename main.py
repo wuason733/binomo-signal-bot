@@ -12,10 +12,10 @@ logging.basicConfig(level=logging.INFO)
 
 async def send_signal():
     try:
-        message = "✅ Señal Binomo:"
+        message = "Señal Binomo:\n\nActivo: Crypto IDX\nDirección: ALZA\nTiempo: 5 minutos"
 
 Activo: Crypto IDX
-Dirección: 🔼 ALZA
+Dirección: ALZA
 Tiempo: 5 minutos
 
 #Binomo #Señal"
